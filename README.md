@@ -2,7 +2,7 @@
  - A [kaggle competition](https://www.kaggle.com/c/tensorflow2-question-answering/overview) from TensorFlow<br>
 <br>
 In this competition, we are tasked with selecting the best short and long answers from Wikipedia articles to the given questions.<br>
-<br>
+
 ## What should I expect the data format to be?
 Each sample contains a Wikipedia article, a related question, and the candidate long form answers. The training examples also provide the correct long and short form answer or answers for the sample, if any exist.<br>
 <br>
@@ -15,7 +15,7 @@ There is more detail about the data and what you're predicting on the Github pag
  - simplified-nq-train.jsonl - the training data, in newline-delimited JSON format.
  - simplified-nq-kaggle-test.jsonl - the test data, in newline-delimited JSON format.
  - sample_submission.csv - a sample submission file in the correct format
- <br>
+
 ## Data fields<br>
  - document_text - the text of the article in question (with some HTML tags to provide document structure). The text can be tokenized by splitting on whitespace.
  - question_text - the question to be answered
