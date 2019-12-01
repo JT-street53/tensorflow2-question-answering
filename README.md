@@ -1,9 +1,9 @@
 # tensorflow2-question-answering
- - A [kaggle competition](https://www.kaggle.com/c/tensorflow2-question-answering/overview) from TensorFlow
+ - A [kaggle competition](https://www.kaggle.com/c/tensorflow2-question-answering/overview) from TensorFlow<br>
 <br>
 In this competition, we are tasked with selecting the best short and long answers from Wikipedia articles to the given questions.<br>
 <br>
-## What should I expect the data format to be?<br>
+## What should I expect the data format to be?
 Each sample contains a Wikipedia article, a related question, and the candidate long form answers. The training examples also provide the correct long and short form answer or answers for the sample, if any exist.<br>
 <br>
 ## What am I predicting?<br>
